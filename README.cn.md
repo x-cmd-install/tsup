@@ -4,7 +4,7 @@
 
 The simplest and fastest way to bundle your TypeScript libraries.
 
-![tsup](https://repo.x-cmd.io/tsup.svg)
+![tsup](https://repo.x-cmd.io/tsup.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,6 @@ x install tsup
 
 - **最新版本**: `v8.5.1` (2025-11-12)
 - **最近提交**: 2026-05-05
-- **发布时间**: 2025-11-12T21:21:34Z
 
 ## 流行度
 
@@ -71,4 +70,4 @@ tsup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:34:19Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:28:07Z._

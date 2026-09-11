@@ -7,7 +7,7 @@ about:
   latestVersion: "v8.5.1"
   latestRelease: "v8.5.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:16:45Z
+  collectedAt: 2026-09-11T04:38:20Z
 timeline:
   created: 2020-03-19
   lastCommit: 2026-05-05
@@ -85,7 +85,7 @@ total:
   commit: 780
 ---
 path: /home/runner/.x-repo/github.com/egoist/tsup
-collectedAt: 2026-09-11T00:16:46Z
+collectedAt: 2026-09-11T04:38:26Z
 loc:
   TypeScript:
     code: 5668

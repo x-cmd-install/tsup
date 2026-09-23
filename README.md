@@ -4,7 +4,7 @@
 
 The simplest and fastest way to bundle your TypeScript libraries.
 
-[![x-cmd/install — tsup Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tsup.svg)](https://x-cmd.com/install/tsup)
+[![x-cmd/install — tsup Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/tsup.svg)](https://x-cmd.com/install/tsup)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,296 · **Forks**: 274 · **Open issues**: 643 · **Contributors**: 97
+- **Stars**: 11,296 · **Forks**: 275 · **Open issues**: 643 · **Contributors**: 97
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 5 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 6 | 0 | 3 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 10 | 0 | 5 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 16 | 1 | 7 | 1 |
-| 360d | 2025-09-27 | 1 | 0 | 27 | 2 | 17 | 8 |
-| last720d | 2024-10-02 | 8 | 19 | 48 | 17 | 80 | 42 |
+| 30d | 2026-08-24 | 0 | 0 | 6 | 0 | 2 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 6 | 0 | 3 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 10 | 0 | 5 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 16 | 1 | 7 | 1 |
+| 360d | 2025-09-28 | 1 | 0 | 27 | 2 | 17 | 8 |
+| last720d | 2024-10-03 | 8 | 19 | 48 | 17 | 79 | 42 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tsup lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:52:16Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:45:19Z._

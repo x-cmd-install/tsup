@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 206 · **Merged PRs**: 387 · **Open PRs**: 58 · **Closed issues**: 286 · **Open issues**: 356 · **Commits**: 780
+- **Releases**: 206 · **Merged PRs**: 387 · **Open PRs**: 69 · **Closed issues**: 286 · **Open issues**: 356 · **Commits**: 780
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 6 | 0 | 2 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 6 | 0 | 2 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 10 | 0 | 5 | 0 |
-| last180d | 2026-03-28 | 0 | 0 | 16 | 1 | 7 | 1 |
-| 360d | 2025-09-29 | 1 | 0 | 27 | 2 | 17 | 8 |
-| last720d | 2024-10-04 | 8 | 19 | 48 | 17 | 79 | 42 |
+| 30d | 2026-08-26 | 0 | 0 | 17 | 0 | 2 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 17 | 0 | 2 | 0 |
+| 90d | 2026-06-27 | 0 | 0 | 21 | 0 | 5 | 0 |
+| last180d | 2026-03-29 | 0 | 0 | 27 | 1 | 7 | 1 |
+| 360d | 2025-09-30 | 1 | 0 | 38 | 2 | 17 | 8 |
+| last720d | 2024-10-05 | 8 | 19 | 59 | 17 | 79 | 42 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tsup lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:41:53Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:58:54Z._

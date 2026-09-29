@@ -31,8 +31,8 @@ Overall score: **3.5 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (4/10) — Found 12/29 approved changesets -- score normalized to 4
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 17 | 0 | 2 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 17 | 0 | 2 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 20 | 0 | 5 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 27 | 0 | 7 | 1 |
-| 360d | 2025-10-03 | 1 | 0 | 38 | 2 | 16 | 8 |
-| last720d | 2024-10-08 | 8 | 19 | 59 | 17 | 79 | 42 |
+| 30d | 2026-08-30 | 0 | 0 | 17 | 0 | 2 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 17 | 0 | 2 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 20 | 0 | 5 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 27 | 0 | 7 | 1 |
+| 360d | 2025-10-04 | 1 | 0 | 38 | 2 | 16 | 8 |
+| last720d | 2024-10-09 | 8 | 19 | 59 | 16 | 79 | 42 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tsup lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:17:37Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:43:36Z._

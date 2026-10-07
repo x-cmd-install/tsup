@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 17 | 0 | 1 | 0 |
-| last60d | 2026-08-07 | 0 | 0 | 17 | 0 | 2 | 0 |
-| 90d | 2026-07-08 | 0 | 0 | 18 | 0 | 5 | 0 |
-| last180d | 2026-04-09 | 0 | 0 | 27 | 0 | 7 | 1 |
-| 360d | 2025-10-11 | 1 | 0 | 38 | 2 | 15 | 8 |
-| last720d | 2024-10-16 | 8 | 16 | 58 | 16 | 77 | 39 |
+| 30d | 2026-09-07 | 0 | 0 | 15 | 0 | 1 | 0 |
+| last60d | 2026-08-08 | 0 | 0 | 17 | 0 | 2 | 0 |
+| 90d | 2026-07-09 | 0 | 0 | 18 | 0 | 3 | 0 |
+| last180d | 2026-04-10 | 0 | 0 | 27 | 0 | 7 | 1 |
+| 360d | 2025-10-12 | 1 | 0 | 38 | 2 | 15 | 8 |
+| last720d | 2024-10-17 | 8 | 16 | 58 | 16 | 77 | 39 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tsup lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:15:56Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:49:34Z._

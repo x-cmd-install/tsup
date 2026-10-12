@@ -30,9 +30,9 @@ x install tsup
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 12/29 approved changesets -- score normalized to 4
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 12/29 approved changesets -- score normalized to 4
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install tsup
 
 ## 流行度
 
-- **Star**: 11,299 · **Fork**: 275 · **开放 issue**: 642 · **贡献者**: 97
+- **Star**: 11,301 · **Fork**: 275 · **开放 issue**: 642 · **贡献者**: 97
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install tsup
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 15 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 17 | 0 | 2 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 18 | 0 | 3 | 0 |
-| last180d | 2026-04-14 | 0 | 0 | 27 | 0 | 7 | 1 |
-| 360d | 2025-10-16 | 1 | 0 | 38 | 2 | 15 | 8 |
-| last720d | 2024-10-21 | 8 | 14 | 57 | 16 | 76 | 37 |
+| 30d | 2026-09-12 | 0 | 0 | 15 | 0 | 0 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 17 | 0 | 2 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 18 | 0 | 3 | 0 |
+| last180d | 2026-04-15 | 0 | 0 | 27 | 0 | 7 | 1 |
+| 360d | 2025-10-17 | 1 | 0 | 38 | 2 | 14 | 8 |
+| last720d | 2024-10-22 | 8 | 14 | 57 | 16 | 76 | 37 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ tsup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T05:39:46Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T05:51:33Z._

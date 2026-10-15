@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/egoist/tsup/releases/261899980",
-  "assets_url": "https://api.github.com/repos/egoist/tsup/releases/261899980/assets",
-  "upload_url": "https://uploads.github.com/repos/egoist/tsup/releases/261899980/assets{?name,label}",
-  "html_url": "https://github.com/egoist/tsup/releases/tag/v8.5.1",
-  "id": 261899980,
+  "url": "https://api.github.com/repos/egoist/tsup/releases/412766986",
+  "assets_url": "https://api.github.com/repos/egoist/tsup/releases/412766986/assets",
+  "upload_url": "https://uploads.github.com/repos/egoist/tsup/releases/412766986/assets{?name,label}",
+  "html_url": "https://github.com/egoist/tsup/releases/tag/v9.0.0",
+  "id": 412766986,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,33 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDODtCVGM4PnEbM",
-  "tag_name": "v8.5.1",
+  "node_id": "RE_kwDODtCVGM4YmlMK",
+  "tag_name": "v9.0.0",
   "target_commitish": "main",
-  "name": "v8.5.1",
+  "name": "v9.0.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2025-11-12T21:21:09Z",
-  "updated_at": "2025-11-12T21:21:34Z",
-  "published_at": "2025-11-12T21:21:34Z",
+  "created_at": "2026-10-14T13:41:11Z",
+  "updated_at": "2026-10-14T13:44:14Z",
+  "published_at": "2026-10-14T13:44:14Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/egoist/tsup/tarball/v8.5.1",
-  "zipball_url": "https://api.github.com/repos/egoist/tsup/zipball/v8.5.1",
-  "body": "### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes\n\n- Add script tag validation &nbsp;-&nbsp; by @benhoad in https://github.com/egoist/tsup/issues/1314 [<samp>(df736)</samp>](https://github.com/egoist/tsup/commit/df7360b)\n- Update esbuild to fix sourcemap source issue &nbsp;-&nbsp; by @ArcherGu and @sxzz in https://github.com/egoist/tsup/issues/1316 [<samp>(fb8ae)</samp>](https://github.com/egoist/tsup/commit/fb8ae7d)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/egoist/tsup/compare/v8.5.0...v8.5.1)",
-  "reactions": {
-    "url": "https://api.github.com/repos/egoist/tsup/releases/261899980/reactions",
-    "total_count": 4,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 3,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  },
+  "tarball_url": "https://api.github.com/repos/egoist/tsup/tarball/v9.0.0",
+  "zipball_url": "https://api.github.com/repos/egoist/tsup/zipball/v9.0.0",
+  "body": "### &nbsp;&nbsp;&nbsp;🚨 Breaking Changes\n\n- Migrate to obug, drop node &lt; 22.18 &nbsp;-&nbsp; by @sxzz [<samp>(59bfd)</samp>](https://github.com/egoist/tsup/commit/59bfd32)\n\n### &nbsp;&nbsp;&nbsp;🚀 Features\n\n- Upgrade esbuild &amp; chokidar &nbsp;-&nbsp; by @sxzz [<samp>(a2c08)</samp>](https://github.com/egoist/tsup/commit/a2c0810)\n- **type**: Expose the Plugin type &nbsp;-&nbsp; by @Sunny-117 in https://github.com/egoist/tsup/issues/1264 [<samp>(3079e)</samp>](https://github.com/egoist/tsup/commit/3079ea3)\n\n### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes\n\n- Remove `baseUrl` in tsconfig &nbsp;-&nbsp; by @pxseu in https://github.com/egoist/tsup/issues/1390 [<samp>(98052)</samp>](https://github.com/egoist/tsup/commit/980525e)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/egoist/tsup/compare/v8.5.1...v9.0.0)",
   "mentions_count": 3
 }

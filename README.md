@@ -14,15 +14,15 @@ x install tsup
 
 ## Code insight
 
-Total: **10,847** lines of code across **56** files in the top 5 languages.
+Total: **9,449** lines of code across **56** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 5,668 | 343 | 605 | 46 |
-| Yaml | 4,619 | 0 | 784 | 2 |
-| Json | 512 | 0 | 0 | 5 |
+| TypeScript | 5,639 | 349 | 605 | 46 |
+| Yaml | 3,251 | 0 | 870 | 2 |
+| Json | 510 | 0 | 0 | 5 |
 | Html | 35 | 1 | 0 | 1 |
-| JavaScript | 13 | 5 | 4 | 2 |
+| JavaScript | 14 | 5 | 4 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v8.5.1` (2025-11-12)
-- **Last commit**: 2026-05-05
+- **Latest**: `v9.0.0` (2026-10-14)
+- **Last commit**: 2026-10-14
 
 ## Popularity
 
-- **Stars**: 11,299 · **Forks**: 275 · **Open issues**: 642 · **Contributors**: 97
+- **Stars**: 11,299 · **Forks**: 275 · **Open issues**: 642 · **Contributors**: 99
 
 ## Totals (cumulative)
 
-- **Releases**: 206 · **Merged PRs**: 387 · **Open PRs**: 69 · **Closed issues**: 286 · **Open issues**: 356 · **Commits**: 780
+- **Releases**: 207 · **Merged PRs**: 389 · **Open PRs**: 43 · **Closed issues**: 289 · **Open issues**: 353 · **Commits**: 793
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 13 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 17 | 0 | 2 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 18 | 0 | 3 | 0 |
-| last180d | 2026-04-17 | 0 | 0 | 27 | 0 | 7 | 1 |
-| 360d | 2025-10-19 | 1 | 0 | 38 | 2 | 14 | 8 |
-| last720d | 2024-10-24 | 8 | 14 | 57 | 16 | 75 | 36 |
+| 30d | 2026-09-15 | 1 | 0 | 13 | 0 | 0 | 13 |
+| last60d | 2026-08-16 | 1 | 0 | 13 | 0 | 2 | 13 |
+| 90d | 2026-07-17 | 1 | 0 | 13 | 0 | 3 | 13 |
+| last180d | 2026-04-18 | 1 | 0 | 18 | 0 | 7 | 14 |
+| 360d | 2025-10-20 | 2 | 1 | 20 | 4 | 12 | 21 |
+| last720d | 2024-10-25 | 9 | 15 | 31 | 18 | 73 | 49 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tsup lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:47:47Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:33:37Z._

@@ -43,13 +43,13 @@
   "body": "### &nbsp;&nbsp;&nbsp;🚨 Breaking Changes\n\n- Migrate to obug, drop node &lt; 22.18 &nbsp;-&nbsp; by @sxzz [<samp>(59bfd)</samp>](https://github.com/egoist/tsup/commit/59bfd32)\n\n### &nbsp;&nbsp;&nbsp;🚀 Features\n\n- Upgrade esbuild &amp; chokidar &nbsp;-&nbsp; by @sxzz [<samp>(a2c08)</samp>](https://github.com/egoist/tsup/commit/a2c0810)\n- **type**: Expose the Plugin type &nbsp;-&nbsp; by @Sunny-117 in https://github.com/egoist/tsup/issues/1264 [<samp>(3079e)</samp>](https://github.com/egoist/tsup/commit/3079ea3)\n\n### &nbsp;&nbsp;&nbsp;🐞 Bug Fixes\n\n- Remove `baseUrl` in tsconfig &nbsp;-&nbsp; by @pxseu in https://github.com/egoist/tsup/issues/1390 [<samp>(98052)</samp>](https://github.com/egoist/tsup/commit/980525e)\n\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/egoist/tsup/compare/v8.5.1...v9.0.0)",
   "reactions": {
     "url": "https://api.github.com/repos/egoist/tsup/releases/412766986/reactions",
-    "total_count": 1,
+    "total_count": 3,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
     "confused": 0,
-    "heart": 0,
+    "heart": 2,
     "rocket": 0,
     "eyes": 0
   },

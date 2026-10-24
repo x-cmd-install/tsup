@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,298 · **Forks**: 275 · **Open issues**: 643 · **Contributors**: 99
+- **Stars**: 11,297 · **Forks**: 275 · **Open issues**: 643 · **Contributors**: 99
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 0 | 13 | 0 | 0 | 13 |
-| last60d | 2026-08-24 | 1 | 0 | 14 | 0 | 2 | 13 |
-| 90d | 2026-07-25 | 1 | 0 | 14 | 0 | 3 | 13 |
-| last180d | 2026-04-26 | 1 | 0 | 19 | 0 | 7 | 14 |
-| 360d | 2025-10-28 | 2 | 1 | 21 | 4 | 12 | 21 |
-| last720d | 2024-11-02 | 5 | 13 | 32 | 17 | 72 | 39 |
+| 30d | 2026-09-24 | 1 | 0 | 2 | 0 | 0 | 13 |
+| last60d | 2026-08-25 | 1 | 0 | 14 | 0 | 2 | 13 |
+| 90d | 2026-07-26 | 1 | 0 | 14 | 0 | 2 | 13 |
+| last180d | 2026-04-27 | 1 | 0 | 19 | 0 | 7 | 14 |
+| 360d | 2025-10-29 | 2 | 1 | 21 | 4 | 12 | 21 |
+| last720d | 2024-11-03 | 5 | 13 | 32 | 17 | 72 | 39 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tsup lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:40:26Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:36:38Z._

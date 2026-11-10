@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (3/10) — Found 10/30 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,303 · **Forks**: 276 · **Open issues**: 647 · **Contributors**: 99
+- **Stars**: 11,306 · **Forks**: 277 · **Open issues**: 647 · **Contributors**: 99
 
 ## Totals (cumulative)
 
-- **Releases**: 207 · **Merged PRs**: 389 · **Open PRs**: 46 · **Closed issues**: 292 · **Open issues**: 355 · **Commits**: 793
+- **Releases**: 207 · **Merged PRs**: 389 · **Open PRs**: 46 · **Closed issues**: 293 · **Open issues**: 354 · **Commits**: 793
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 0 | 4 | 0 | 5 | 13 |
-| last60d | 2026-09-09 | 1 | 0 | 17 | 0 | 5 | 13 |
-| 90d | 2026-08-10 | 1 | 0 | 17 | 0 | 7 | 13 |
-| last180d | 2026-05-12 | 1 | 0 | 22 | 2 | 8 | 13 |
-| 360d | 2025-11-13 | 1 | 1 | 24 | 6 | 15 | 20 |
-| last720d | 2024-11-18 | 5 | 13 | 35 | 19 | 73 | 39 |
+| 30d | 2026-10-11 | 1 | 0 | 4 | 1 | 4 | 0 |
+| last60d | 2026-09-11 | 1 | 0 | 17 | 1 | 4 | 13 |
+| 90d | 2026-08-12 | 1 | 0 | 17 | 1 | 6 | 13 |
+| last180d | 2026-05-14 | 1 | 0 | 22 | 3 | 7 | 13 |
+| 360d | 2025-11-15 | 1 | 1 | 24 | 7 | 14 | 14 |
+| last720d | 2024-11-20 | 5 | 13 | 35 | 20 | 70 | 39 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for tsup lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:02:46Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:10:19Z._
